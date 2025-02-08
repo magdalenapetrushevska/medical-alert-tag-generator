@@ -1,4 +1,5 @@
 using api.Data;
+using api.Services;
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
 
@@ -15,6 +16,8 @@ builder.Services.AddDbContext<ApplicationDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
+builder.Services.AddTransient<IMedicalAlertTagService, MedicalAlertTagService>();
+
 
 var app = builder.Build();
 
@@ -26,10 +29,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-
-app.MapGet("/", () => "Hello World!")
-    .Produces(200, typeof(string));
 
 app.UseAuthorization();
 
