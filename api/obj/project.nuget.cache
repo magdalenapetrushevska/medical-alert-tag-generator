@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMEOSP3oclk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\magda\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\magda\\.nuget\\packages\\scalar.aspnetcore\\2.0.12\\scalar.aspnetcore.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

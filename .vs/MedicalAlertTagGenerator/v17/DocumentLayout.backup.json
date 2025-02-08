@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T11:34:39.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:34:03.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
