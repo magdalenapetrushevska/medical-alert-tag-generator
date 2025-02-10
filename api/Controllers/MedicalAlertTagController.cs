@@ -45,6 +45,7 @@ namespace api.Controllers
         public async Task<IActionResult> Create([FromBody] CreateMedicalAlertTagDto medicalAlertTagDto)
         {
             var medicalTag = await _medicalTagService.CreateMedicalAlertTagAsync(medicalAlertTagDto);
+
             return Ok(medicalTag);
         }
 

@@ -1,7 +1,9 @@
-﻿using api.Services;
+﻿using api.Data;
+using api.Services;
 using Microsoft.AspNetCore.Mvc;
 using QRCoder;
 using System.Drawing;
+using System.Text;
 
 namespace api.Controllers
 {
@@ -10,26 +12,25 @@ namespace api.Controllers
     public class QrController : ControllerBase
     {
 
-        [HttpGet]
-        [Route("qenerate/{qrText}")]
-        public IActionResult GetQrCode(string qrText)
+        private readonly IMedicalAlertTagService _medicalTagService;
+        public QrController(IMedicalAlertTagService medicalTagService)
         {
-            QRCodeGenerator qrGenerator = new QRCodeGenerator();
-            QRCodeData qrCodeData = qrGenerator.CreateQrCode(qrText, QRCodeGenerator.ECCLevel.Q);
-            QRCode qrCode = new QRCode(qrCodeData);
-            Bitmap qrCodeImage = qrCode.GetGraphic(20);
-
-            return File(BitmapToBytes(qrCodeImage), "image/jpeg");
+            _medicalTagService = medicalTagService;
         }
 
         [HttpGet]
-        [Route("qenerate-color/{qrText}")]
-        public IActionResult GetColorQrCode(string qrText)
+        [Route("qenerate/{id:Guid}")]
+        public IActionResult GetQrCode(Guid id)
         {
             QRCodeGenerator qrGenerator = new QRCodeGenerator();
-            QRCodeData qrCodeData = qrGenerator.CreateQrCode(qrText, QRCodeGenerator.ECCLevel.Q);
+
+            var medicalAlertTag = _medicalTagService.GetMedicalAlertTagById(id);
+            if (medicalAlertTag == null)
+                return NotFound();
+
+            QRCodeData qrCodeData = qrGenerator.CreateQrCode(medicalAlertTag.ToString(), QRCodeGenerator.ECCLevel.Q);
             QRCode qrCode = new QRCode(qrCodeData);
-            Bitmap qrCodeImage = qrCode.GetGraphic(20, Color.DarkRed, Color.PaleGreen, true);
+            Bitmap qrCodeImage = qrCode.GetGraphic(20);
 
             return File(BitmapToBytes(qrCodeImage), "image/jpeg");
         }

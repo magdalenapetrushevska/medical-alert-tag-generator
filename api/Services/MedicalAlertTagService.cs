@@ -70,6 +70,19 @@ namespace api.Services
                 .ToListAsync();
         }
 
+        public MedicalAlertTagDto? GetMedicalAlertTagById(Guid id)
+        {
+            var medicalTag =  _dbContext.MedicalAlertTags
+                                   .AsNoTracking()
+                                   .FirstOrDefault(m => m.Id == id);
+            if (medicalTag == null)
+                return null;
+
+            return new MedicalAlertTagDto(medicalTag.Id, medicalTag.FullName, medicalTag.DateOfBirth,
+                                          medicalTag.MedicalConditions, medicalTag.Allergies, medicalTag.Medications,
+                                          medicalTag.EmergencyContactName, medicalTag.EmergencyContactPhone);
+        }
+
         public async Task<MedicalAlertTagDto?> GetMedicalAlertTagByIdAsync(Guid id)
         {
             var medicalTag = await _dbContext.MedicalAlertTags
