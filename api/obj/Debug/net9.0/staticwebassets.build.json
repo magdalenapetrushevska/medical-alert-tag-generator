@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "A9PKRZfZUTDhj1QRyCFFkEHzqJ04Y7sk6OEkYYD+as4=",
+  "Hash": "7kq/UubSA8uO1WgUNh/phtjferMVmES7tMQUmfICf58=",
   "Source": "api",
   "BasePath": "_content/api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "api\\wwwroot",
+      "Source": "api",
+      "ContentRoot": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\wwwroot\\",
+      "BasePath": "_content/api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\wwwroot\\img\\aircodlogo.jpg",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\wwwroot\\",
+      "BasePath": "_content/api",
+      "RelativePath": "img/aircodlogo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "de30c1b9u1",
+      "Integrity": "y84p01yDqM26iP8mFJ5jXm5/wwBuiWoLG0lLSzgP7Ns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\aircodlogo.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/aircodlogo.de30c1b9u1.jpg",
+      "AssetFile": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\wwwroot\\img\\aircodlogo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y84p01yDqM26iP8mFJ5jXm5/wwBuiWoLG0lLSzgP7Ns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 19:32:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "de30c1b9u1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/aircodlogo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y84p01yDqM26iP8mFJ5jXm5/wwBuiWoLG0lLSzgP7Ns="
+        }
+      ]
+    },
+    {
+      "Route": "img/aircodlogo.jpg",
+      "AssetFile": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\wwwroot\\img\\aircodlogo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y84p01yDqM26iP8mFJ5jXm5/wwBuiWoLG0lLSzgP7Ns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 19:32:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y84p01yDqM26iP8mFJ5jXm5/wwBuiWoLG0lLSzgP7Ns="
+        }
+      ]
+    }
+  ]
 }
