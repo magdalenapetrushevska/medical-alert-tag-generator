@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F356E046-74A7-4E9C-A6EE-CAE75F90BDE7}|test\\test.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\test\\medicalalerttagcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F356E046-74A7-4E9C-A6EE-CAE75F90BDE7}|test\\test.csproj|solutionrelative:test\\medicalalerttagcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F356E046-74A7-4E9C-A6EE-CAE75F90BDE7}|test\\test.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\test\\fakemedicalalerttagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F356E046-74A7-4E9C-A6EE-CAE75F90BDE7}|test\\test.csproj|solutionrelative:test\\fakemedicalalerttagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\services\\imedicalalerttagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\services\\imedicalalerttagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\controllers\\medicalalerttagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\controllers\\medicalalerttagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\services\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,36 +27,12 @@
       "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\services\\medicalalerttagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\services\\imedicalalerttagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\services\\imedicalalerttagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\models\\medicalalerttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\models\\medicalalerttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\controllers\\qrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\controllers\\qrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\controllers\\medicalalerttagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\controllers\\medicalalerttagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\dtos\\createmedicalalerttagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\dtos\\createmedicalalerttagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\dtos\\medicalalerttagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\dtos\\medicalalerttagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\dtos\\updatemedicalalerttagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\persistence\\configurations\\medicalalerttagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|solutionrelative:api\\persistence\\configurations\\medicalalerttagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7712563-A4F9-4013-9CC8-488ED2E581C3}|api\\api.csproj|c:\\users\\magda\\source\\repos\\medicalalerttaggenerator\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,101 +62,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QrController.cs",
-              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Controllers\\QrController.cs",
-              "RelativeDocumentMoniker": "api\\Controllers\\QrController.cs",
-              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Controllers\\QrController.cs",
-              "RelativeToolTip": "api\\Controllers\\QrController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FakeMedicalAlertTagService.cs",
+              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\test\\FakeMedicalAlertTagService.cs",
+              "RelativeDocumentMoniker": "test\\FakeMedicalAlertTagService.cs",
+              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\test\\FakeMedicalAlertTagService.cs",
+              "RelativeToolTip": "test\\FakeMedicalAlertTagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T19:39:32.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MedicalAlertTagController.cs",
-              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Controllers\\MedicalAlertTagController.cs",
-              "RelativeDocumentMoniker": "api\\Controllers\\MedicalAlertTagController.cs",
-              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Controllers\\MedicalAlertTagController.cs",
-              "RelativeToolTip": "api\\Controllers\\MedicalAlertTagController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T16:02:12.661Z",
+              "WhenOpened": "2025-02-11T20:43:29.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Program.cs",
-              "RelativeDocumentMoniker": "api\\Program.cs",
-              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Program.cs",
-              "RelativeToolTip": "api\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Title": "MedicalAlertTagControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\test\\MedicalAlertTagControllerTests.cs",
+              "RelativeDocumentMoniker": "test\\MedicalAlertTagControllerTests.cs",
+              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\test\\MedicalAlertTagControllerTests.cs*",
+              "RelativeToolTip": "test\\MedicalAlertTagControllerTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T11:34:03.578Z",
+              "WhenOpened": "2025-02-11T18:02:22.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MedicalAlertTagDto.cs",
-              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\DTOs\\MedicalAlertTagDto.cs",
-              "RelativeDocumentMoniker": "api\\DTOs\\MedicalAlertTagDto.cs",
-              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\DTOs\\MedicalAlertTagDto.cs",
-              "RelativeToolTip": "api\\DTOs\\MedicalAlertTagDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T13:18:51.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IMedicalAlertTagService.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Services\\IMedicalAlertTagService.cs",
               "RelativeDocumentMoniker": "api\\Services\\IMedicalAlertTagService.cs",
               "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Services\\IMedicalAlertTagService.cs",
               "RelativeToolTip": "api\\Services\\IMedicalAlertTagService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T13:33:03.056Z",
+              "WhenOpened": "2025-02-11T20:43:42.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalAlertTagController.cs",
+              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Controllers\\MedicalAlertTagController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\MedicalAlertTagController.cs",
+              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Controllers\\MedicalAlertTagController.cs",
+              "RelativeToolTip": "api\\Controllers\\MedicalAlertTagController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:18:13.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MedicalAlertTag.cs",
-              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Models\\MedicalAlertTag.cs",
-              "RelativeDocumentMoniker": "api\\Models\\MedicalAlertTag.cs",
-              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Models\\MedicalAlertTag.cs",
-              "RelativeToolTip": "api\\Models\\MedicalAlertTag.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAUwFMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T12:05:42.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "QRCode.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Services\\QRCode.cs",
               "RelativeDocumentMoniker": "api\\Services\\QRCode.cs",
               "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Services\\QRCode.cs",
               "RelativeToolTip": "api\\Services\\QRCode.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswGMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T19:55:08.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Models\\EntityBase.cs",
               "RelativeDocumentMoniker": "api\\Models\\EntityBase.cs",
@@ -185,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MedicalAlertTagService.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Services\\MedicalAlertTagService.cs",
               "RelativeDocumentMoniker": "api\\Services\\MedicalAlertTagService.cs",
@@ -198,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "CreateMedicalAlertTagDto.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\DTOs\\CreateMedicalAlertTagDto.cs",
               "RelativeDocumentMoniker": "api\\DTOs\\CreateMedicalAlertTagDto.cs",
@@ -206,11 +165,12 @@
               "RelativeToolTip": "api\\DTOs\\CreateMedicalAlertTagDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T13:11:03.396Z"
+              "WhenOpened": "2025-02-08T13:11:03.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "UpdateMedicalAlertTagDto.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\DTOs\\UpdateMedicalAlertTagDto.cs",
               "RelativeDocumentMoniker": "api\\DTOs\\UpdateMedicalAlertTagDto.cs",
@@ -218,35 +178,12 @@
               "RelativeToolTip": "api\\DTOs\\UpdateMedicalAlertTagDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T13:19:07.364Z"
+              "WhenOpened": "2025-02-08T13:19:07.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "api.csproj",
-              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\api.csproj",
-              "RelativeDocumentMoniker": "api\\api.csproj",
-              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\api.csproj",
-              "RelativeToolTip": "api\\api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-08T19:00:26.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MedicalAlertTagConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Persistence\\Configurations\\MedicalAlertTagConfiguration.cs",
-              "RelativeDocumentMoniker": "api\\Persistence\\Configurations\\MedicalAlertTagConfiguration.cs",
-              "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Persistence\\Configurations\\MedicalAlertTagConfiguration.cs",
-              "RelativeToolTip": "api\\Persistence\\Configurations\\MedicalAlertTagConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T12:33:40.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Persistence\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "api\\Persistence\\ApplicationDBContext.cs",
@@ -254,23 +191,25 @@
               "RelativeToolTip": "api\\Persistence\\ApplicationDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T12:19:16.498Z"
+              "WhenOpened": "2025-02-08T12:19:16.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "20250208130004_initMigration.cs",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Migrations\\20250208130004_initMigration.cs",
               "RelativeDocumentMoniker": "api\\Migrations\\20250208130004_initMigration.cs",
               "ToolTip": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Migrations\\20250208130004_initMigration.cs",
               "RelativeToolTip": "api\\Migrations\\20250208130004_initMigration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T13:00:05.201Z"
+              "WhenOpened": "2025-02-08T13:00:05.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\appsettings.json",
               "RelativeDocumentMoniker": "api\\appsettings.json",
@@ -278,11 +217,12 @@
               "RelativeToolTip": "api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-08T12:15:44.873Z"
+              "WhenOpened": "2025-02-08T12:15:44.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\magda\\source\\repos\\MedicalAlertTagGenerator\\api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "api\\Properties\\launchSettings.json",
@@ -290,7 +230,8 @@
               "RelativeToolTip": "api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-08T11:34:39.159Z"
+              "WhenOpened": "2025-02-08T11:34:39.159Z",
+              "EditorCaption": ""
             }
           ]
         }
